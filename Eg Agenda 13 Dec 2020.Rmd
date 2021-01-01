@@ -1,0 +1,49 @@
+---
+title: "**Egalitarians**"
+subtitle: "**Meeting Agenda**"
+header-includes:
+- \newcommand{\bcenter}{\begin{center}}
+- \newcommand{\ecenter}{\end{center}}
+output: pdf_document
+---
+
+\bcenter
+
+**13th Dec 2020, Sunday**
+
+**5pm to 6pm IST**
+
+[Click here](https://meet.google.com/mhm-kqju-ref)
+
+***
+
+\ecenter
+
+**Logistics**
+* Please join the meeting five minutes before the scheduled time.
+* Except the speaker others please remain muted unless you want to speak something.
+* In case you wish to join the meeting with your mobile phone please make sure that you have *google meet* app installed in your mobile.
+* Please do notcirculate the meeting link.
+* In case you face any troble joing the meeting feel free to contact the *Home rule* committee. 
+
+**Welcoming Members and Intoduction of Egalitarians' Honour Code**
+**Conductor**: EG Manoj K G
+
+Conductor will commence the session, welcome the members and introduce the *Egalitarians Honour Code*, facilitate the discussion and finalise the *Honour Code*. 
+
+**Members Introuction and Egalitarians' Diversity Committment**
+**Conductor**: EG Vignesh M
+
+Conductor will facilitate the members to introduce themselves in alphabetical order and will faciliate the iscussion on *Egalitarians' Diversity Committment*.
+
+**Discussion, Voting, and Passing of Egalitarians' Vision and Objetives & Commiittees Introduction**
+**Coductor**: EG Karthik R
+
+Conductor will facilitate the discussion, voting (voice vote or Telegram vote), and passing of Egalitarians' Vision and Objectives and will introduce the committees and delegate responsibilities. 
+
+**Egalitarians Thus Far and Future Strategy**
+**Conductor**: EG Anand A
+
+Conductor will talk in brief about Egalitarians' work thus far and facilitate discussion on future strategy (long term & short term projects).
+
+***

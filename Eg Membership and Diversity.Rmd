@@ -1,0 +1,27 @@
+---
+title: "Eg Membership and Diversity"
+date: "13/12/2020"
+output:
+  beamer_presentation:
+    theme: "Madrid"
+    colortheme: "default"
+    fonttheme: "structurebold"
+---
+
+## Members
+
+* Note names are arranged in alphabetical order. Order doesn't convey hierarchy. *
+
+Name  | Email Id | Contact Number | Facebook
+------------- | ------------- | ----------- |----------
+EG Vignesh M | vigneshv637@gmail.com | 7904850506 | [Vijay Vicky](https://www.facebook.com/vignesh.krish.754)
+EG Thirumoorthy P | thirumailboxx@gmail.com | 8883330065 | [Thiru Green Max Thiru](https://www.facebook.com/thiru.moorthyp.96)
+EG Surya P A |  p.a.suriya.ten@gmail.com | 9597565566 | [Surya Santh](https://www.facebook.com/suriya.avinashiappan)
+EG Sai Charan N | charan29595@gmail.com | 9944082206 | [Sai Charan Natarajan](https://www.facebook.com/saicharan95)
+EG Rajeswaran B | rajeswaranganes@gmail.com | 8015070065 | NA
+EG Raagasutha | raagasuthapv@gmail.com | 7402173102 | [Raagasutha](https://www.facebook.com/profile.php?id=100008052750093)
+EG Manoj K G | manojkg7565@gmail.com | 7339370305 | [Mano Gunasekar](https://www.facebook.com/mano.gunasekar)
+EG Karthik R | Karthikagr1996@gmail.com | 7339177052 | [Karthik Mughil](https://www.facebook.com/karthik.ricky.71)
+EG Gokul Prasath P | gokulgp2808@gmail.com | 8270848442 | NA
+EG Anand A  | anandaani123@gmail.com | 8675381230 | [Anand Ashokan](https://www.facebook.com/aravindan.krishi)
+

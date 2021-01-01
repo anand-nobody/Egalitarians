@@ -1,0 +1,43 @@
+---
+title: "Egalitarians"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Vision
+To create a casteless egalitarian society.
+
+# Objectives
+1. Working for the betterment of Dalits, Adivasis and transgender community.
+2. Ensuring quality education and healthcare for the rural poor.
+3. Monitoring last-mile public-services delivery.
+
+# About Us
+We are a grup of volunteers working with a common understanding for a common goal. We do not represent any political party and we do not subscribe to any political ideology. We work in areas concerning annihilation of caste, social justice, affirmative action, quality education and healthcare for the rural poor, and promoting constituitional morality. We do collaborate with like-minded organisation based on mutual agreement.  
+
+# Members
+
+Last updated on - 07.12.2020
+
+* *Note: Names are arranged in alphabetical order. Order doesn't convey
+hierarchy. *
+
+Name  | Email Id | Contact Number | Facebook
+------------- | ------------- | ----------- |----------
+Anand A  | anandaani123@gmail.com | 8675381230 | [Anand Ashokan](https://www.facebook.com/aravindan.krishi)
+Gokul Prasath P | gokulgp2808@gmail.com | 8270848442 | NA
+Karthik R | Karthikagr1996@gmail.com | 7339177052 | [Karthik Mughil](https://www.facebook.com/karthik.ricky.71)
+Manoj K G | manojkg7565@gmail.com | 7339370305 | [Mano Gunasekar](https://www.facebook.com/mano.gunasekar)
+Raagasutha | raagasuthapv@gmail.com | 7402173102 | [Raagasutha](https://www.facebook.com/profile.php?id=100008052750093)
+Rajeswaran B | rajeswaranganes@gmail.com | 8015070065 | NA
+Sai Charan N | charan29595@gmail.com | 9944082206 | [Sai Charan Natarajan](https://www.facebook.com/saicharan95)
+Surya P A |  p.a.suriya.ten@gmail.com | 9597565566 | [Surya Santh](https://www.facebook.com/suriya.avinashiappan)
+Thirumoorthy P | thirumailboxx@gmail.com | 8883330065 | [Thiru Green Max Thiru](https://www.facebook.com/thiru.moorthyp.96)
+Vignesh M | vigneshv637@gmail.com | 7904850506 | [Vijay Vicky](https://www.facebook.com/vignesh.krish.754)
+
+
+
+
+
+

@@ -1,0 +1,95 @@
+---
+title: "Egalitarian's' Vision and Objectives"
+date: "13 Dec 2020"
+output:
+  beamer_presentation:
+    theme: "Madrid"
+    colortheme: "default"
+    fonttheme: "structurebold"
+---
+
+## Vision
+To create a casteless egalitarian society.
+
+## Objectives
+1. Working for the betterment of Dalits, Adivasis and transgender community.
+2. Ensuring quality education and healthcare for the rural poor.
+3. Monitoring last-mile public-services delivery.
+
+## About Us
+We are a grup of volunteers working with a common understanding for a common goal. We work in areas concerning annihilation of caste, social justice, affirmative action, quality education and healthcare for the rural poor, and promoting constituitional morality. We do collaborate with like-minded organisation based on mutual agreement. We do not represent any political party and we do not subscribe to any political ideology. 
+
+## Committees
+1. Home rule (not secretary)
+2. Treasury (not treasurer)
+3. Public Relations & Membership (PRM)
+4. Information Technology (IT)
+5. Diary and Documentation (DD)
+6. Research
+
+## Roles & Responsibilities
+
+* Responses are just indicative not exhaustive.
+* Division of roles do not necessarily mean division of labour. We are collectively responsible. So, We will be working together as a team.
+
+## ## Home rule
+
+**Members: Manoj, Raagasutha, Rajeshwaran**
+
+* Internal and external Communication
+  * Managing email & Telegram
+  * Answering calls
+  * Secretary will be working in close liaison with the PR Team
+  
+## Treasury
+
+**Members: Gokul Prasath, Manoj, Raagasutha, Suriya**
+
+* Maintaning accounts
+* Managing Bills
+* Collecting donations
+
+## Public Relations & Membership
+
+**Members: Gokul Prasath, Manoj, Rajeshwaran, Thirumoorthy, Vignesh**
+
+* Managing FB page
+* Communicating our motto and work with the larger pubic
+* Bringing feedback and discussing with the group
+* Bringing new volunteers to the team
+* Maintainig group diversity (gender, educational, and regional diversity)
+
+## Information Technology
+
+**Members: Anand, Thirumoorthy, Vignesh**
+
+* Managing website and content
+* Working in close liaison with the Documentation and PR team
+* creating flyers, letters and other modes of electronic communication
+
+## Diary and Documentation
+
+**Members: Anand, Karthik, Sai charan, Suriya**
+
+* Preparing monthy newsletter
+* Maintaining Egalitarian Web-Diary
+* Documentation
+
+## Rsearch
+
+**Members: Anand, Karthik, Sai charan, Vignesh**
+
+* Maintainig a directory of reported attrocities against Dalits, Adivasis and transgender community
+* Startegising
+* Researching
+* Legal work
+
+## To-Do Urgent
+* Creating logo for the group - PRM & IT
+* Tag line for the group - Everyone
+* Bring FB page to form - PRM
+* Website - IT team
+
+
+
+

@@ -1,0 +1,62 @@
+---
+title: "Egalitarians Executive Committee"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Committees
+1. Home rule
+2. Treasury
+3. Public Relations & Membership (PRM)
+4. Information Technology (IT)
+5. Diary and Documentation (DD)
+6. Research
+
+# Roles & Responsibilities
+## Home rule
+Members | Responsibilities
+-------|------------------
+Manoj | 
+
+* Internal and external Communication
+  * Managing email & Telegram
+  * Answering calls
+  * Secretary will be working in close liaison with the PR Team
+  
+## Treasury
+* Maintaning accounts
+* Managing Bills
+* Collecting donations
+
+## Public Relations & Membership
+* Managing FB page
+* Communicating our motto and work with the larger pubic
+* Bringing feedback and discussing with the group
+* Bringing new volunteers to the team
+* Maintainig group diversity (gender, educational, and regional diversity)
+
+## Information Technology
+* Managing website and content
+* Working in close liaison with the Documentation and PR team
+* creating flyers, letters and other modes of electronic communication
+
+## Diary and Documentation
+* Preparing monthy newsletter
+* Maintaining Egalitarian Web-Diary
+* Documentation
+
+
+## Rsearch
+* Maintainig a directory of reported attrocities against Dalits, Adivasis and transgender community
+* Startegising
+* Researching
+* Legal work
+
+*Note: 1. Each member can volunteer for two committees. 2. Roles are just indicative.We are collectively responsible. So, We will be woking together.* 
+
+
+## To-Do Urgent
+* Creating logo for the group
+* Bring FB page to form
+* Website

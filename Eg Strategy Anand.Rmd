@@ -1,0 +1,24 @@
+---
+title: "**Egalitarians So Far & Future Strategy**"
+date: "13th Dec 2020"
+output:
+  beamer_presentation:
+    theme: "Madrid"
+    colortheme: "default"
+    fonttheme: "structurebold"
+---
+
+## Amateurism
+
+> “There's really no such thing as the 'voiceless'. There are only the deliberately silenced, or the preferably unheard.” - Arundhati Roy
+
+* Imposed psychological disability & Upper-caste vs Dominant caste.
+
+## Charity?
+
+> “When we want to help the poor, we usually offer them charity. Most often we use charity to avoid recognizing the problem and finding the solution for it. Charity becomes a way to shrug off our responsibility. But charity is no solution to poverty. Charity only perpetuates poverty by taking the initiative away from the poor. Charity allows us to go ahead with our own lives without worrying about the lives of the poor. Charity appeases our consciences.” - Muhammad Yunus
+
+## Charity vs Solidarity
+
+> “I don't believe in charity. I believe in solidarity. Charity is so vertical. It goes from the top to the bottom. Solidarity is horizontal. It respects the other person. I have a lot to learn from other people.” ― Eduardo Galeano
+
